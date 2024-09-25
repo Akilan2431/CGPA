@@ -32,7 +32,7 @@ Start using the Telegram bot by sending commands to it in your Telegram chat.
 alternate usage(run your pc as server using ngrok file)
 1)Send the Zip file of code and extract it.(Cgp.py and ngrok)
 
-2)search botfather→/start→/newbot(creation)→ Jaya(Botname)→Jaya_bot(username)
+2)search botfather→/start→/newbot(creation)→ Navinzo(Botname)→Navinzo_bot(username)
 
 3)Open file in VScode and change the api token in the code that u have copiedfrom telegram.
 
